@@ -1,1 +1,1 @@
-print("Proyecto Dos V2")
+print("Proyecto Dos Versión 2")
